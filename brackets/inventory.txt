@@ -1,0 +1,3 @@
+lorem.txt
+hello.c
+wrong.txt
