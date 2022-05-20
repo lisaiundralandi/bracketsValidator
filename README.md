@@ -23,3 +23,6 @@ Do tego służy klasa `Main`. Po uruchomieniu program odczyta
 w pierwszej kolejności plik `inventory.txt` z folderu `brackets`.
 W tym pliku powinny znajdować się nazwy plików do sprawdzenia.
 Przykład znajduje się w folderze [`brackets`](brackets/inventory.txt).
+
+## Scenariusze Cucumber
+Scenariusze znajdują się w folderze [src/test/resources/scenarios](src/test/resources/scenarios).
